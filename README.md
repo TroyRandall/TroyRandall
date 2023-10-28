@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi ther
+
+https://github.com/TroyRandall/TroyRandall/assets/105599802/c091ce09-1d26-4d8e-b85b-52b7dbe5ab27
+
+e 👋
 ![ezgif-2-51555e8800](https://github.com/TroyRandall/TroyRandall/assets/105599802/23136c49-62dd-4c57-b9b1-d0cfd6d4a004)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TroyRandall&show_icons=true)
