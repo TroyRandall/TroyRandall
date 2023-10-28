@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src='https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif' />
+![ezgif-2-51555e8800](https://github.com/TroyRandall/TroyRandall/assets/105599802/23136c49-62dd-4c57-b9b1-d0cfd6d4a004)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TroyRandall&show_icons=true)
 <!--
