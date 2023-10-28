@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src='https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif' />
+<img src='[https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)' />
 <!--
 **TroyRandall/TroyRandall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
