@@ -25,8 +25,11 @@
     <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png' height='50px' width='50px'/>
 </div>
 
-<div align='right'>
-  
+![tradix demo - Trim (3)](https://github.com/TroyRandall/TroyRandall/assets/105599802/ce26b546-a635-4f4c-bc58-5239dfa96784)
+
+
+<div >
+ 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TroyRandall&show_icons=true)
 </div>
 
