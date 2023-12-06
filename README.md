@@ -2,7 +2,7 @@
 ### Introduction ###
 <img align='right' src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDYwMXdwMm41ejV4NDZpNzRrbjFlbDg4MWU5YTE3aWplbXo2ZmY5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dne65fvblEBi2fPpRn/giphy.gif' style='width:300px'/>
 
- - 🔭 I’m currently working on Applause, a social media app designed around the flow of music from artist to fan.| 
+ - 🔭 I’m currently working on Applause, a social media app designed around the flow of music from artist to fan.
  - 🌱 I’m currently learning generative AI modeling.
  - 👯 I’m looking to collaborate on React based applications.
  - 🤔 I’m looking for help with frontend design ideas.
